@@ -1,13 +1,12 @@
 # BPY (Blender as a python) [pip3 install bpy]
 import bpy
-# System (Default)
-import sys
 
 """
 Description:
     Initialization of constants.
 """
-CONST_RESET_ENV = True
+CONST_RESET_ENV  = True
+CONST_ENV_OFFSET = 0.0
 # End-Effectors:
 #   ABB:
 #       [ABB_Smart_Gripper_L_Type_1_001, ABB_Smart_Gripper_L_Type_2_001,
@@ -24,49 +23,52 @@ CONST_RESET_ENV = True
 #       [EE_Intel_Camera_HT_Circular_001, EE_Intel_Camera_HT_Square_001]
 CONST_EE_NAME = 'ABB_Smart_Gripper_R_Type_1_001'
 
-def Reset_Environment():
+def Reset_Environment(offset):
     """
     Description:
         Restore the environment to the default position.
+
+    Args:
+        (1) offset [float]: Possible offset in the Z axis of individual objects.
     """
                 
-    bpy.data.objects['Viewpoint'].location = [0.0, 0.0, 0.0]
+    bpy.data.objects['Viewpoint'].location = [0.0, 0.0, 0.0 + offset]
     bpy.data.objects['Viewpoint'].rotation_quaternion = [1.0, 0.0, 0.0, 0.0]
         
     # Move the end-effectors to the default position.
     #   ABB:
-    bpy.data.objects['ABB_Smart_Gripper_L_Type_1_001'].location = [0.2, -0.4, 0.0]
+    bpy.data.objects['ABB_Smart_Gripper_L_Type_1_001'].location = [0.2, -0.4, 0.0 + offset]
     bpy.data.objects['ABB_Smart_Gripper_L_Type_1_001'].rotation_quaternion = [1.0, 0.0, 0.0, 0.0]
-    bpy.data.objects['ABB_Smart_Gripper_L_Type_2_001'].location = [0.2, 0.4, 0.0]
+    bpy.data.objects['ABB_Smart_Gripper_L_Type_2_001'].location = [0.2, 0.4, 0.0 + offset]
     bpy.data.objects['ABB_Smart_Gripper_L_Type_2_001'].rotation_quaternion = [1.0, 0.0, 0.0, 0.0]
-    bpy.data.objects['ABB_Smart_Gripper_R_Type_1_001'].location = [0.2, -0.2, 0.0]
+    bpy.data.objects['ABB_Smart_Gripper_R_Type_1_001'].location = [0.2, -0.2, 0.0 + offset]
     bpy.data.objects['ABB_Smart_Gripper_R_Type_1_001'].rotation_quaternion = [1.0, 0.0, 0.0, 0.0]
-    bpy.data.objects['ABB_Smart_Gripper_R_Type_2_001'].location = [0.2, 0.2, 0.0]
+    bpy.data.objects['ABB_Smart_Gripper_R_Type_2_001'].location = [0.2, 0.2, 0.0 + offset]
     bpy.data.objects['ABB_Smart_Gripper_R_Type_2_001'].rotation_quaternion = [1.0, 0.0, 0.0, 0.0]
     #   SMC (MHM)
-    bpy.data.objects['EE_SMC_MHM_ABB_IRB_120_001'].location = [-0.2, 0.2, 0.0]
+    bpy.data.objects['EE_SMC_MHM_ABB_IRB_120_001'].location = [-0.2, 0.2, 0.0 + offset]
     bpy.data.objects['EE_SMC_MHM_ABB_IRB_120_001'].rotation_quaternion = [1.0, 0.0, 0.0, 0.0]
-    bpy.data.objects['EE_SMC_MHM_Universal_Robots_UR3_001'].location = [-0.2, 0.4, 0.0]
+    bpy.data.objects['EE_SMC_MHM_Universal_Robots_UR3_001'].location = [-0.2, 0.4, 0.0 + offset]
     bpy.data.objects['EE_SMC_MHM_Universal_Robots_UR3_001'].rotation_quaternion = [1.0, 0.0, 0.0, 0.0]
     #   SMC (XT661_2A)
-    bpy.data.objects['EE_SMC_XT661_2A_ABB_IRB_120_001'].location = [0.0, -0.2, 0.0]
+    bpy.data.objects['EE_SMC_XT661_2A_ABB_IRB_120_001'].location = [0.0, -0.2, 0.0 + offset]
     bpy.data.objects['EE_SMC_XT661_2A_ABB_IRB_120_001'].rotation_quaternion = [1.0, 0.0, 0.0, 0.0]
-    bpy.data.objects['EE_SMC_XT661_2A_Universal_Robots_UR3_001'].location = [0.0, -0.4, 0.0]
+    bpy.data.objects['EE_SMC_XT661_2A_Universal_Robots_UR3_001'].location = [0.0, -0.4, 0.0 + offset]
     bpy.data.objects['EE_SMC_XT661_2A_Universal_Robots_UR3_001'].rotation_quaternion = [1.0, 0.0, 0.0, 0.0]
     #   SMC (XT661_4C)
-    bpy.data.objects['EE_SMC_XT661_4C_ABB_IRB_120_001'].location = [-0.2, -0.2, 0.0]
+    bpy.data.objects['EE_SMC_XT661_4C_ABB_IRB_120_001'].location = [-0.2, -0.2, 0.0 + offset]
     bpy.data.objects['EE_SMC_XT661_4C_ABB_IRB_120_001'].rotation_quaternion = [1.0, 0.0, 0.0, 0.0]
-    bpy.data.objects['EE_SMC_XT661_4C_Universal_Robots_UR3_001'].location = [-0.2, -0.4, 0.0]
+    bpy.data.objects['EE_SMC_XT661_4C_Universal_Robots_UR3_001'].location = [-0.2, -0.4, 0.0 + offset]
     bpy.data.objects['EE_SMC_XT661_4C_Universal_Robots_UR3_001'].rotation_quaternion = [1.0, 0.0, 0.0, 0.0]
     #   SMC (ZP2)
-    bpy.data.objects['EE_SMC_ZP2_ABB_IRB_120_001'].location = [0.0, 0.2, 0.0]
+    bpy.data.objects['EE_SMC_ZP2_ABB_IRB_120_001'].location = [0.0, 0.2, 0.0 + offset]
     bpy.data.objects['EE_SMC_ZP2_ABB_IRB_120_001'].rotation_quaternion = [1.0, 0.0, 0.0, 0.0]
-    bpy.data.objects['EE_SMC_ZP2_Universal_Robots_UR3_001'].location = [0.0, 0.4, 0.0]
+    bpy.data.objects['EE_SMC_ZP2_Universal_Robots_UR3_001'].location = [0.0, 0.4, 0.0 + offset]
     bpy.data.objects['EE_SMC_ZP2_Universal_Robots_UR3_001'].rotation_quaternion = [1.0, 0.0, 0.0, 0.0]
     #   Intel Realsense (D434i)
-    bpy.data.objects['EE_Intel_Camera_HT_Circular_001'].location = [-0.2, 0.0, 0.0]
+    bpy.data.objects['EE_Intel_Camera_HT_Circular_001'].location = [-0.2, 0.0, 0.0 + offset]
     bpy.data.objects['EE_Intel_Camera_HT_Circular_001'].rotation_quaternion = [1.0, 0.0, 0.0, 0.0]
-    bpy.data.objects['EE_Intel_Camera_HT_Square_001'].location = [0.2, 0.0, 0.0]
+    bpy.data.objects['EE_Intel_Camera_HT_Square_001'].location = [0.2, 0.0, 0.0 + offset]
     bpy.data.objects['EE_Intel_Camera_HT_Square_001'].rotation_quaternion = [1.0, 0.0, 0.0, 0.0]
 
 def Duplicate_Object(name: str, identification: str):
@@ -191,7 +193,7 @@ def main():
     bpy.data.objects['Viewpoint'].rotation_mode = 'QUATERNION'
         
     if CONST_RESET_ENV == True:
-        Reset_Environment()
+        Reset_Environment(CONST_ENV_OFFSET)
     else:
         # Move the end-effector to the base position.
         bpy.data.objects[CONST_EE_NAME].location = [0.0, 0.0, 0.0]
