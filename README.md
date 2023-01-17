@@ -169,7 +169,7 @@ Roman.Parak@outlook.com
 ```bash
 @misc{RomanParak_DataConverter,
   author = {Roman Parak},
-  title = {Prototype of the end-effectors for the robotic arms},
+  title = {Modular prototypes of end-effector for robotic arms.},
   year = {2022-2023},
   publisher = {GitHub},
   journal = {GitHub repository},
