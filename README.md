@@ -10,7 +10,7 @@ Autodesk Inventor 2023 (3D Modeling for Mechanical Design), PrusaSlicer (3D Prin
 
 ## Project Description:
 
-Text ....
+The project demonstrates the creation of several end-effector  prototypes for robotic arms (ABB IRB 120, ABB IRB 14000 YuMi, Universal Robots UR3).
 
 <p align="center">
   <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/SMC_EE_Series.png" width="800" height="500">
@@ -123,10 +123,16 @@ Product Link: [Intel (D435i)](https://www.intelrealsense.com/depth-camera-d435i/
   <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/SMC_EE_ABB_IRB_120.png" width="700" height="250">
 </p>
 
-**ABB IRB 140000 (YUMI):**
+**ABB IRB 140000 (YuMi):**
 
 <p align="center">
   <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/ABB_YUMI.png" width="700" height="500">
+</p>
+
+**General View:**
+
+<p align="center">
+  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/SMC_Series_Real.png" width="700" height="500">
 </p>
 
 **Intel® RealSense™ Depth Camera D435i:**
