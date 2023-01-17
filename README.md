@@ -53,8 +53,8 @@ Description:
 
 |          | Kilogram [kg] | Position [m] | Orientation [-] |
 | :------: | :-----------: | :----------: | :-------------: |
-| EE_SMC_MHM_ABB_IRB_120_001 | 0.0           | [0.0, 0.0, 0.0] | [0.0, 0.0, 0.0, 0.0] |
-| EE_SMC_MHM_Universal_Robots_UR3_001 | 0.0           | [0.0, 0.0, 0.0] | [0.0, 0.0, 0.0, 0.0] |
+| EE_SMC_MHM_ABB_IRB_120_001 | 0.0           | [0.0, 0.0, 0.2177] | [1.0, 0.0, 0.0, 0.0] |
+| EE_SMC_MHM_Universal_Robots_UR3_001 | 0.0           | [0.0, 0.0, 0.2177] | [1.0, 0.0, 0.0, 0.0] |
 
 <p align="center">
   <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/EE_SMC_MHM.png" width="500" height="300">
@@ -66,8 +66,8 @@ Product Link: [SMC (MHM-X6400)](https://www.smc.eu/en-eu/products/magnetic-gripp
 
 |          | Kilogram [kg] | Position [m] | Orientation [-] |
 | :------: | :-----------: | :----------: | :-------------: |
-| EE_SMC_XT661_2A_ABB_IRB_120_001 | 0.0           | [0.0, 0.0, 0.0] | [0.0, 0.0, 0.0, 0.0] |
-| EE_SMC_XT661_2A_Universal_Robots_UR3_001 | 0.0           | [0.0, 0.0, 0.0] | [0.0, 0.0, 0.0, 0.0] |
+| EE_SMC_XT661_2A_ABB_IRB_120_001 | 0.0           | [0.0, 0.0, 0.1765] | [1.0, 0.0, 0.0, 0.0] |
+| EE_SMC_XT661_2A_Universal_Robots_UR3_001 | 0.0           | [0.0, 0.0, 0.1765] | [1.0, 0.0, 0.0, 0.0] |
 
 <p align="center">
   <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/EE_SMC_XT661_2A.png" width="500" height="300">
@@ -79,8 +79,8 @@ Product Link: [SMC (XT661-2A-R)](https://www.smc.eu/en-eu/products/cyclone-type-
 
 |          | Kilogram [kg] | Position [m] | Orientation [-] |
 | :------: | :-----------: | :----------: | :-------------: |
-| EE_SMC_XT661_4C_ABB_IRB_120_001 | 0.0           | [0.0, 0.0, 0.0] | [0.0, 0.0, 0.0, 0.0] |
-| EE_SMC_XT661_4C_Universal_Robots_UR3_001 | 0.0           | [0.0, 0.0, 0.0] | [0.0, 0.0, 0.0, 0.0] |
+| EE_SMC_XT661_4C_ABB_IRB_120_001 | 0.0           | [0.0, 0.0, 0.1877] | [1.0, 0.0, 0.0, 0.0] |
+| EE_SMC_XT661_4C_Universal_Robots_UR3_001 | 0.0           | [0.0, 0.0, 0.1877] | [1.0, 0.0, 0.0, 0.0] |
 
 <p align="center">
   <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/EE_SMC_XT661.png" width="500" height="300">
@@ -92,8 +92,8 @@ Product Link: [SMC (XT661-4C-X427)](https://www.smc.eu/en-eu/products/bernouilli
 
 |          | Kilogram [kg] | Position [m] | Orientation [-] |
 | :------: | :-----------: | :----------: | :-------------: |
-| EE_SMC_ZP2_ABB_IRB_120_001 | 0.0           | [0.0, 0.0, 0.0] | [0.0, 0.0, 0.0, 0.0] |
-| EE_SMC_ZP2_Universal_Robots_UR3_001 | 0.0           | [0.0, 0.0, 0.0] | [0.0, 0.0, 0.0, 0.0] |
+| EE_SMC_ZP2_ABB_IRB_120_001 | 0.0           | [0.0, 0.0, 0.186] | [1.0, 0.0, 0.0, 0.0] |
+| EE_SMC_ZP2_Universal_Robots_UR3_001 | 0.0           | [0.0, 0.0, 0.186] | [1.0, 0.0, 0.0, 0.0] |
 
 <p align="center">
   <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/EE_SMC_ZP2.png" width="500" height="300">
@@ -105,10 +105,11 @@ Product Link: [SMC (ZP2-TB15ZJS6-AL12-06)](https://www.smc.eu/en-eu/products/4-5
 
 |          | Kilogram [kg] | Position [m] | Orientation [-] |
 | :------: | :-----------: | :----------: | :-------------: |
-| ABB_Smart_Gripper_L_Type_1_001 | 0.0           | <ul><li>[0.0, 0.0, 0.0]</li><li>[0.0, 0.0, 0.0]</li></ul> | [0.0, 0.0, 0.0, 0.0] |
-| ABB_Smart_Gripper_R_Type_1_001 | 0.0           | [0.0, 0.0, 0.0] | [0.0, 0.0, 0.0, 0.0] |
-| ABB_Smart_Gripper_L_Type_2_001 | 0.0           | [0.0, 0.0, 0.0] | [0.0, 0.0, 0.0, 0.0] |
-| ABB_Smart_Gripper_R_Type_2_001 | 0.0           | [0.0, 0.0, 0.0] | [0.0, 0.0, 0.0, 0.0] |
+| ABB_Smart_Gripper_L_Type_1_001 | 0.0           | <ul><li>Fingers: [0.0, 0.0, 0.1142]</li><li>Vacuum Suction Cup (L): [0.05 + 0.009, 0.0185]</li></ul><li> Camera: [-0.00727, 0.0297, 0.03506]</li></ul> | <ul><li>Fingers: [1.0, 0.0, 0.0, 0.0]</li><li>Vacuum Suction Cup (L): [0.707107, 0.0, 0.707107, 0.0]</li></ul><li> Camera: [0.5, -0.5, 0.5, 0.5]</li></ul> |
+| ABB_Smart_Gripper_R_Type_1_001 | 0.0           | <ul><li>Fingers: [0.0, 0.0, 0.1142]</li><li>Vacuum Suction Cup (L): [0.05 + 0.009, 0.0185]</li></ul><li> Vacuum Suction Cup (R): [-0.05 - 0.009, 0.0185]</li></ul> | <ul><li>Fingers: [1.0, 0.0, 0.0, 0.0]</li><li>Vacuum Suction Cup (L): [0.707107, 0.0, 0.707107, 0.0]</li></ul><li> Vacuum Suction Cup (R): [0.0, -0.707107, 0.0, 0.707107]</li></ul> |
+| ABB_Smart_Gripper_L_Type_2_001 | 0.0           | <ul><li>Fingers: [0.0, 0.0, 0.1142]</li><li>Vacuum Suction Cup (L): [0.05 + 0.0085, 0.0185]</li></ul><li> Camera: [-0.00727, 0.0297, 0.03506]</li></ul> | <ul><li>Fingers: [1.0, 0.0, 0.0, 0.0]</li><li>Vacuum Suction Cup (L): [0.707107, 0.0, 0.707107, 0.0]</li></ul><li> Camera: [0.5, -0.5, 0.5, 0.5]</li></ul>
+ |
+| ABB_Smart_Gripper_R_Type_2_001 | 0.0           | <ul><li>Fingers: [0.0, 0.0, 0.1142]</li><li>Vacuum Suction Cup (L): [0.05 + 0.0085, 0.0185]</li></ul><li> Vacuum Suction Cup (R): [-0.05 - 0.0085, 0.0185]</li></ul> | <ul><li>Fingers: [1.0, 0.0, 0.0, 0.0]</li><li>Vacuum Suction Cup (L): [0.707107, 0.0, 0.707107, 0.0]</li></ul><li> Vacuum Suction Cup (R): [0.0, -0.707107, 0.0, 0.707107]</li></ul> |
 
 <p align="center">
   <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/ABB_Smart_Gripper_T12.png" width="400" height="150">
@@ -120,8 +121,8 @@ Product Link: [SMC (ZP3-ZP3-T13BS-A5)](https://www.smc.eu/en-eu/products/with-ad
 
 |          | Kilogram [kg] | Position [m] | Orientation [-] |
 | :------: | :-----------: | :----------: | :-------------: |
-| EE_Intel_Camera_HT_Circular_001 | 0.0           | [0.0, 0.0, 0.0] | [0.0, 0.0, 0.0, 0.0] |
-| EE_Intel_Camera_HT_Square_001 | 0.0           | [0.0, 0.0, 0.0] | [0.0, 0.0, 0.0, 0.0] |
+| EE_Intel_Camera_HT_Circular_001 | 0.0           | <ul><li>Centroid: [0.0, 0.0, 0.005]</li><li>Camera: [-0.1, 0.0, 0.03]</li></ul> | <ul><li>Centroid: [1.0, 0.0, 0.0, 0.0]</li><li>Camera: [1.0, 0.0, 0.0, 0.0]</li></ul> |
+| EE_Intel_Camera_HT_Square_001 | 0.0           | <ul><li>Centroid: [0.0, 0.0, 0.005]</li><li>Camera: [-0.1, 0.0, 0.03]</li></ul> | <ul><li>Centroid: [1.0, 0.0, 0.0, 0.0]</li><li>Camera: [1.0, 0.0, 0.0, 0.0]</li></ul> |
 
 <p align="center">
   <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/EE_Intel_Camera_HT_12.png" width="300" height="150">
