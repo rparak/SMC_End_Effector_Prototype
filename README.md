@@ -29,7 +29,18 @@ Description:
 
 ## Catalogue of prototypes:
 
-Images
+**Magnetic Gripper - MHM-32D1-X6400:**
+| Product | Link |
+|     :---:      |         :---: |
+| Magnetic Gripper - MHM-X6400 | [git status](https://www.smc.eu/en-eu/products/magnetic-gripper-mhm-x6400~138779~cfg?partNumber=MHM-32D1-X6400) |
+
+**Non-contact Gripper, Cyclone Type - XT661-2A-R:**
+
+**Non-contact Gripper, Bernoulli Type - XT661-4C-X427:**
+
+**4.5 Stage Bellows Vacuum Pad with Adapter - ZP2-TB15ZJS6-AL12-06:**
+
+**Vacuum Pad with Adapter - ZP3-ZP3-T13BS-A5:**
 
 ## Contact Info:
 Roman.Parak@outlook.com
