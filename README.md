@@ -31,9 +31,10 @@ Description:
 
 **Magnetic Gripper:**
 
-| - | Parameter | 
-| :---:         |     :---:      |
-| Text ..     | Text ..     |
+|          | Parameter                  | 
+|          | Kg | Position | Orientation|
+| :------: | :---/---/---: |
+| Text ..  | Text ..   | Text ..   | Text ..   |
 
 <p align="center">
   <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/EE_SMC_MHM.png" width="500" height="300">
