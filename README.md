@@ -114,19 +114,19 @@ Product Link: [Intel (D435i)](https://www.intelrealsense.com/depth-camera-d435i/
 **Universal Robots UR3:**
 
 <p align="center">
-  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/SMC_EE_UR3.png" width="800" height="500">
+  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/SMC_EE_UR3.png" width="700" height="300">
 </p>
 
 **ABB IRB 120:**
 
 <p align="center">
-  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/SMC_EE_ABB_IRB_120.png" width="800" height="500">
+  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/SMC_EE_ABB_IRB_120.png" width="700" height="300">
 </p>
 
 **ABB IRB 140000 (YUMI):**
 
 <p align="center">
-  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/ABB_YUMI.png" width="800" height="500">
+  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/ABB_YUMI.png" width="700" height="500">
 </p>
 
 **Intel® RealSense™ Depth Camera D435i:**
