@@ -32,7 +32,7 @@ Description:
 **Magnetic Gripper:**
 
 <p align="center">
-  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/EE_SMC_MHM.png" width="800" height="500">
+  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/EE_SMC_MHM.png" width="600" height="300">
 </p>
 
 | Product | Link |
