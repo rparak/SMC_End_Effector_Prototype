@@ -21,7 +21,23 @@ The project demonstrates the creation of several end-effector  prototypes for ro
 **Repositary [/Data_Converter/]:**
 ```bash
 
-[/.../]
+[/Blender/]
+Description:
+    Text ...
+    
+[/SMC_EE_*/]
+Description:
+    Text ...
+    
+[/ABB_EE_SmartGripper_SMC_Vacuum/]
+Description:
+    Text ...
+   
+[/RealSense_D435i_+_Holder/]
+Description:
+    Text ...
+    
+[/Viewpoint/]
 Description:
     Text ...
     
@@ -135,7 +151,6 @@ Product Link: [Intel (D435i)](https://www.intelrealsense.com/depth-camera-d435i/
   <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/SMC_Series_Real.png" width="700" height="500">
 </p>
 
-**Intel® RealSense™ Depth Camera D435i:**
 ## Contact Info:
 Roman.Parak@outlook.com
 
