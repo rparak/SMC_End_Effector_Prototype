@@ -5,7 +5,7 @@
 **Software (optional):**
 
 ```bash
-Autodesk Inventor 2023 (3D Modeling for Mechanical Design), PrusaSlicer (3D Printing), Blendeer
+Autodesk Inventor 2023 (3D Modeling for Mechanical Design), PrusaSlicer (3D Printing), Blender
 ```
 
 ## Project Description:
