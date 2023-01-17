@@ -90,15 +90,6 @@ Product Link: [SMC (ZP2-TB15ZJS6-AL12-06)](https://www.smc.eu/en-eu/products/4-5
 | ABB_Smart_Gripper_L_Type_2_001 | 0.0           | [0.0, 0.0, 0.0] | [0.0, 0.0, 0.0, 0.0] |
 | ABB_Smart_Gripper_R_Type_2_001 | 0.0           | [0.0, 0.0, 0.0] | [0.0, 0.0, 0.0, 0.0] |
 
-| Head A | Spanned Header ||
-| Head B | Head C | Head D |
-|:-------|:------:|:------:|
-| 1A     |    1B  |    1C  |
-| 2A    ^|    2B  |    2C  |
-| 3A    ^|    3B       3C ||
-| 4A     |    4B       4C^||
-| 5A    ^|    5B  |    5C  |
-| 6A     |    6B ^|    6C  |
 <p align="center">
   <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/ABB_Smart_Gripper_T12.png" width="400" height="150">
 </p>
