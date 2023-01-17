@@ -41,6 +41,7 @@ Description:
 :              :  with multiple  :  has room for  :   multi-line   :    multi-line  :  multi-line    :
 :              :  lines.         :  more text.    :      text.     :         text.  :  text.         :
 |--------------|-----------------|----------------|----------------|----------------|----------------|
+[Caption Text]
 
 <p align="center">
   <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/EE_SMC_MHM.png" width="500" height="300">
