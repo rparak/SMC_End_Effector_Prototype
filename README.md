@@ -31,10 +31,10 @@ Description:
 
 **Magnetic Gripper:**
 
-| Center-aligned || Center-aligned | 
-|     :---:      ||     :---:      |
-| git status     || git status     | 
-| git diff       || git diff       |
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 
 <p align="center">
   <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/EE_SMC_MHM.png" width="500" height="300">
