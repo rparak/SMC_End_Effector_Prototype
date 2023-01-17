@@ -12,6 +12,10 @@ Autodesk Inventor 2023 (3D Modeling for Mechanical Design), PrusaSlicer (3D Prin
 
 Text ....
 
+<p align="center">
+  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/SMC_EE_Series.png" width="800" height="500">
+</p>
+
 ## Project Hierarchy:
 
 **Repositary [/Data_Converter/]:**
@@ -22,10 +26,6 @@ Description:
     Text ...
     
 ```
-
-<p align="center">
-  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/SMC_EE_Series.png" width="800" height="500">
-</p>
 
 ## Catalogue of prototypes:
 
@@ -109,6 +109,27 @@ Product Link: [SMC (ZP3-ZP3-T13BS-A5)](https://www.smc.eu/en-eu/products/with-ad
 
 Product Link: [Intel (D435i)](https://www.intelrealsense.com/depth-camera-d435i/)
 
+## Real-World Test:
+
+**Universal Robots UR3:**
+
+<p align="center">
+  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/SMC_EE_UR3.png" width="800" height="500">
+</p>
+
+**ABB IRB 120:**
+
+<p align="center">
+  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/SMC_EE_ABB_IRB_120.png" width="800" height="500">
+</p>
+
+**ABB IRB 140000 (YUMI):**
+
+<p align="center">
+  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/ABB_YUMI.png" width="800" height="500">
+</p>
+
+**Intel® RealSense™ Depth Camera D435i:**
 ## Contact Info:
 Roman.Parak@outlook.com
 
