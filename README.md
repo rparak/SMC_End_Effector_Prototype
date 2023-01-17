@@ -85,8 +85,7 @@ Product Link: [SMC (ZP2-TB15ZJS6-AL12-06)](https://www.smc.eu/en-eu/products/4-5
 
 |          | Kilogram [kg] | Position [m] | Orientation [-] |
 | :------: | :-----------: | :----------: | :-------------: |
-| ABB_Smart_Gripper_L_Type_1_001 | 0.0           | *[0.0, 0.0, 0.0] | *[0.0, 0.0, 0.0, 0.0] |
-|  |            | *[0.0, 0.0, 0.0] | *[0.0, 0.0, 0.0, 0.0] |
+| ABB_Smart_Gripper_L_Type_1_001 | 0.0           | <ul><li>[0.0, 0.0, 0.0]</li><li>[0.0, 0.0, 0.0]</li></ul> | [0.0, 0.0, 0.0, 0.0] |
 | ABB_Smart_Gripper_R_Type_1_001 | 0.0           | [0.0, 0.0, 0.0] | [0.0, 0.0, 0.0, 0.0] |
 | ABB_Smart_Gripper_L_Type_2_001 | 0.0           | [0.0, 0.0, 0.0] | [0.0, 0.0, 0.0, 0.0] |
 | ABB_Smart_Gripper_R_Type_2_001 | 0.0           | [0.0, 0.0, 0.0] | [0.0, 0.0, 0.0, 0.0] |
