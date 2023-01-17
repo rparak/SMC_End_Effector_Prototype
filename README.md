@@ -92,7 +92,7 @@ Product Link: [SMC (ZP3-ZP3-T13BS-A5)](https://www.smc.eu/en-eu/products/with-ad
 **Intel® RealSense™ Depth Camera D435i:**
 
 <p align="center">
-  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/EE_Intel_Camera_HT_12.png" width="400" height="150">
+  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/EE_Intel_Camera_HT_12.png" width="300" height="150">
 </p>
 
 Product Link: [Intel (D435i)](https://www.intelrealsense.com/depth-camera-d435i/)
