@@ -103,13 +103,20 @@ Product Link: [SMC (ZP2-TB15ZJS6-AL12-06)](https://www.smc.eu/en-eu/products/4-5
 
 **ABB Smart Gripper with SMC Vacuum Pad:**
 
+Notes:
+  - F  = Fingers
+  - VL = Vacuum Suction Cup (L)
+  - VR = Vacuum Suction Cup (R)
+  - C  = Camera
+
+
 |          | Kilogram [kg] | Position [m] | Orientation [-] |
 | :------: | :-----------: | :----------: | :-------------: |
-| ABB_Smart_Gripper_L_Type_1_001 | 0.0           | <ul><li>Fingers: [0.0, 0.0, 0.1142]</li><li>Vacuum Suction Cup (L): [0.05 + 0.009, 0.0185]</li></ul><li> Camera: [-0.00727, 0.0297, 0.03506]</li></ul> | <ul><li>Fingers: [1.0, 0.0, 0.0, 0.0]</li><li>Vacuum Suction Cup (L): [0.707107, 0.0, 0.707107, 0.0]</li></ul><li> Camera: [0.5, -0.5, 0.5, 0.5]</li></ul> |
-| ABB_Smart_Gripper_R_Type_1_001 | 0.0           | <ul><li>Fingers: [0.0, 0.0, 0.1142]</li><li>Vacuum Suction Cup (L): [0.05 + 0.009, 0.0185]</li></ul><li> Vacuum Suction Cup (R): [-0.05 - 0.009, 0.0185]</li></ul> | <ul><li>Fingers: [1.0, 0.0, 0.0, 0.0]</li><li>Vacuum Suction Cup (L): [0.707107, 0.0, 0.707107, 0.0]</li></ul><li> Vacuum Suction Cup (R): [0.0, -0.707107, 0.0, 0.707107]</li></ul> |
-| ABB_Smart_Gripper_L_Type_2_001 | 0.0           | <ul><li>Fingers: [0.0, 0.0, 0.1142]</li><li>Vacuum Suction Cup (L): [0.05 + 0.0085, 0.0185]</li></ul><li> Camera: [-0.00727, 0.0297, 0.03506]</li></ul> | <ul><li>Fingers: [1.0, 0.0, 0.0, 0.0]</li><li>Vacuum Suction Cup (L): [0.707107, 0.0, 0.707107, 0.0]</li></ul><li> Camera: [0.5, -0.5, 0.5, 0.5]</li></ul>
+| ABB_Smart_Gripper_L_Type_1_001 | 0.0           | <ul><li>F: [0.0, 0.0, 0.1142]</li><li>VL: [0.05 + 0.009, 0.0185, 0.0375]</li></ul><li> C: [-0.00727, 0.0297, 0.03506]</li></ul> | <ul><li>F: [1.0, 0.0, 0.0, 0.0]</li><li>VL: [0.707107, 0.0, 0.707107, 0.0]</li></ul><li> C: [0.5, -0.5, 0.5, 0.5]</li></ul> |
+| ABB_Smart_Gripper_R_Type_1_001 | 0.0           | <ul><li>F: [0.0, 0.0, 0.1142]</li><li>VL: [0.05 + 0.009, 0.0185, 0.0375]</li></ul><li> VR: [-0.05 - 0.009, 0.0185]</li></ul> | <ul><li>F: [1.0, 0.0, 0.0, 0.0]</li><li>VL: [0.707107, 0.0, 0.707107, 0.0]</li></ul><li> VR: [0.0, -0.707107, 0.0, 0.707107]</li></ul> |
+| ABB_Smart_Gripper_L_Type_2_001 | 0.0           | <ul><li>F: [0.0, 0.0, 0.1142]</li><li>VL: [0.05 + 0.0085, 0.0185, 0.0375]</li></ul><li> C: [-0.00727, 0.0297, 0.03506]</li></ul> | <ul><li>F: [1.0, 0.0, 0.0, 0.0]</li><li>VL: [0.707107, 0.0, 0.707107, 0.0]</li></ul><li> C: [0.5, -0.5, 0.5, 0.5]</li></ul>
  |
-| ABB_Smart_Gripper_R_Type_2_001 | 0.0           | <ul><li>Fingers: [0.0, 0.0, 0.1142]</li><li>Vacuum Suction Cup (L): [0.05 + 0.0085, 0.0185]</li></ul><li> Vacuum Suction Cup (R): [-0.05 - 0.0085, 0.0185]</li></ul> | <ul><li>Fingers: [1.0, 0.0, 0.0, 0.0]</li><li>Vacuum Suction Cup (L): [0.707107, 0.0, 0.707107, 0.0]</li></ul><li> Vacuum Suction Cup (R): [0.0, -0.707107, 0.0, 0.707107]</li></ul> |
+| ABB_Smart_Gripper_R_Type_2_001 | 0.0           | <ul><li>F: [0.0, 0.0, 0.1142]</li><li>VL: [0.05 + 0.0085, 0.0185, 0.0375]</li></ul><li> VR: [-0.05 - 0.0085, 0.0185]</li></ul> | <ul><li>F: [1.0, 0.0, 0.0, 0.0]</li><li>VL: [0.707107, 0.0, 0.707107, 0.0]</li></ul><li> VR: [0.0, -0.707107, 0.0, 0.707107]</li></ul> |
 
 <p align="center">
   <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/ABB_Smart_Gripper_T12.png" width="400" height="150">
