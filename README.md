@@ -10,7 +10,11 @@ Autodesk Inventor 2023 (3D Modeling for Mechanical Design), PrusaSlicer (3D Prin
 
 ## Project Description:
 
-The project demonstrates the creation of several end-effector  prototypes for robotic arms (ABB IRB 120, ABB IRB 14000 YuMi, Universal Robots UR3).
+The project demonstrates the creation of several end-effector prototypes for robotic arms (ABB IRB 120, ABB IRB 14000 YuMi, Universal Robots UR3) as well as the creation of a 3D Viewpoint to better understand the Tool Center Point (TCP) of robots in 3D space. The individual parts that make up the construction of each end-effector were created using 3D printing (using PLA material).
+
+The repository contains 3D models of individual components and a Blender project for easy integration into the robot simulation model. Inside the blender file are prototypes of end-effectors with origins, position/rotation, etc. with the corresponding script in Python programming language.
+
+Images with demonstrations on real robots can be found in the README file below.
 
 <p align="center">
   <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/SMC_EE_Series.png" width="800" height="500">
@@ -23,23 +27,23 @@ The project demonstrates the creation of several end-effector  prototypes for ro
 
 [/Blender/]
 Description:
-    Text ...
+  Blender project with corresponding Python script and 3D prototype models.
     
 [/SMC_EE_*/]
 Description:
-    Text ...
+    End-effectors created using SMC Industrial automation products.
     
 [/ABB_EE_SmartGripper_SMC_Vacuum/]
 Description:
-    Text ...
+    Smart grippers of the ABB company extended with SMC vacuum suction cups.
    
 [/RealSense_D435i_+_Holder/]
 Description:
-    Text ...
+    RealSense 3D camera system mount for attachment to a robotic arm.
     
 [/Viewpoint/]
 Description:
-    Text ...
+    3D Viewpoint to better understand the Tool Center Point (TCP) of robots in 3D space.
     
 ```
 
