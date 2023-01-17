@@ -12,10 +12,6 @@ Autodesk Inventor 2023 (3D Modeling for Mechanical Design), PrusaSlicer (3D Prin
 
 Text ....
 
-<p align="center">
-  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/SMC_EE_Series.png" width="800" height="500">
-</p>
-
 ## Project Hierarchy:
 
 **Repositary [/Data_Converter/]:**
@@ -26,6 +22,10 @@ Description:
     Text ...
     
 ```
+
+<p align="center">
+  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/SMC_EE_Series.png" width="800" height="500">
+</p>
 
 ## Catalogue of prototypes:
 
