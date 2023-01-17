@@ -72,7 +72,7 @@ Description:
 **Vacuum Pad with Adapter:**
 
 <p align="center">
-  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/ABB_Smart_Gripper_T12.png" width="400" height="200">
+  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/ABB_Smart_Gripper_T12.png" width="400" height="150">
 </p>
 
 | Product | Link |
