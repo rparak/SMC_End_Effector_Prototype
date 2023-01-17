@@ -31,10 +31,6 @@ Description:
 
 **Magnetic Gripper:**
 
-|  | Parameter 1 | Parameter 2 |
-| :---: ||     :---:      |         :---: |
-|     ....     ||     ....     ||     ....     |
-
 | Center-aligned || Center-aligned | 
 |     :---:      ||     :---:      |
 | git status     || git status     | 
