@@ -156,7 +156,7 @@ Product Link: [Intel (D435i)](https://www.intelrealsense.com/depth-camera-d435i/
   <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/ABB_YUMI.png" width="700" height="500">
 </p>
 
-**General View:**
+**General Overview:**
 
 <p align="center">
   <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/SMC_Series_Real.png" width="700" height="500">
