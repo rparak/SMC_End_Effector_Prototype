@@ -10,7 +10,7 @@ Autodesk Inventor 2023 (3D Modeling for Mechanical Design), PrusaSlicer (3D Prin
 
 ## Project Description:
 
-The project demonstrates the creation of several end-effector prototypes for robotic arms (ABB IRB 120, ABB IRB 14000 YuMi, Universal Robots UR3) as well as the creation of a 3D Viewpoint to better understand the Tool Center Point (TCP) of robots in 3D space. The individual parts that make up the construction of each end-effector were created using 3D printing (using PLA material).
+The project demonstrates the creation of several modular end-effector  prototypes for robotic arms (ABB IRB 120, ABB IRB 14000 YuMi, Universal Robots UR3) as well as the creation of a 3D Viewpoint to better understand the Tool Center Point (TCP) of robots in 3D space. The modularity of end-effectors consist in their easy adaptability to a different type of robot by changing one part rather than the whole concept. The individual parts that make up the construction of each end-effector were created using 3D printing (using PLA material).
 
 The repository contains 3D models of individual components and a Blender project for easy integration into the robot simulation model. Inside the blender file are prototypes of end-effectors with origins, position/rotation, etc. with the corresponding script in Python programming language.
 
