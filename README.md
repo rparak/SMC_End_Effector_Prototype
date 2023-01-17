@@ -118,7 +118,7 @@ Notes:
 | ABB_Smart_Gripper_R_Type_2_001 | 0.0           | <ul><li>F: [0.0, 0.0, 0.1142]</li><li>VL: [0.0585, 0.0185, 0.0375]</li></ul><li> VR: [-0.0585, 0.0185, 0.0375]</li></ul> | <ul><li>F: [1.0, 0.0, 0.0, 0.0]</li><li>VL: [0.707107, 0.0, 0.707107, 0.0]</li></ul><li> VR: [0.0, -0.707107, 0.0, 0.707107]</li></ul> |
 
 <p align="center">
-  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/ABB_Smart_Gripper_T12.png" width="400" height="150">
+  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/ABB_Smart_Gripper_T12.png" width="500" height="200">
 </p>
 
 Product Link: [SMC (ZP3-ZP3-T13BS-A5)](https://www.smc.eu/en-eu/products/with-adapter-zp3-t-b~138577~cfg?partNumber=ZP3-T13BS-A5)
@@ -131,7 +131,7 @@ Product Link: [SMC (ZP3-ZP3-T13BS-A5)](https://www.smc.eu/en-eu/products/with-ad
 | EE_Intel_Camera_HT_Square_001 | 0.0           | <ul><li>Centroid: [0.0, 0.0, 0.005]</li><li>Camera: [-0.1, 0.0, 0.03]</li></ul> | <ul><li>Centroid: [1.0, 0.0, 0.0, 0.0]</li><li>Camera: [1.0, 0.0, 0.0, 0.0]</li></ul> |
 
 <p align="center">
-  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/EE_Intel_Camera_HT_12.png" width="300" height="150">
+  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/EE_Intel_Camera_HT_12.png" width="400" height="200">
 </p>
 
 Product Link: [Intel (D435i)](https://www.intelrealsense.com/depth-camera-d435i/)
