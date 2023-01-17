@@ -57,7 +57,7 @@ Description:
 | EE_SMC_MHM_Universal_Robots_UR3_001 | 0.0           | [0.0, 0.0, 0.2177] | [1.0, 0.0, 0.0, 0.0] |
 
 <p align="center">
-  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/EE_SMC_MHM.png" width="100" height="300">
+  <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/EE_SMC_MHM.png" width="500" height="300">
 </p>
 
 Product Link: [SMC (MHM-X6400)](https://www.smc.eu/en-eu/products/magnetic-gripper-mhm-x6400~138779~cfg?partNumber=MHM-32D1-X6400)
