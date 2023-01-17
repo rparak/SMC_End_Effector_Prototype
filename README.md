@@ -29,18 +29,30 @@ Description:
 
 ## Catalogue of prototypes:
 
-**Magnetic Gripper - MHM-32D1-X6400:**
+**Magnetic Gripper:**
 | Product | Link |
 |     :---:      |         :---: |
-| Magnetic Gripper - MHM-X6400 | [git status](https://www.smc.eu/en-eu/products/magnetic-gripper-mhm-x6400~138779~cfg?partNumber=MHM-32D1-X6400) |
+| MHM-32D1-X6400 | [SMC (MHM-X6400)](https://www.smc.eu/en-eu/products/magnetic-gripper-mhm-x6400~138779~cfg?partNumber=MHM-32D1-X6400) |
 
-**Non-contact Gripper, Cyclone Type - XT661-2A-R:**
+**Non-contact Gripper, Cyclone Type:**
+| Product | Link |
+|     :---:      |         :---: |
+| XT661-2A-R | [SMC (XT661-2A-R)](https://www.smc.eu/en-eu/products/cyclone-type-xt661~128119~cfg?partNumber=XT661-2A-R) |
 
-**Non-contact Gripper, Bernoulli Type - XT661-4C-X427:**
+**Non-contact Gripper, Bernoulli Type:**
+| Product | Link |
+|     :---:      |         :---: |
+| XT661-4C-X427 | [SMC (XT661-4C-X427)](https://www.smc.eu/en-eu/products/bernouilli-round-type-xt661-x321~128121~cfg?partNumber=XT661-4C-X321) |
 
-**4.5 Stage Bellows Vacuum Pad with Adapter - ZP2-TB15ZJS6-AL12-06:**
+**4.5 Stage Bellows Vacuum Pad with Adapter:**
+| Product | Link |
+|     :---:      |         :---: |
+| ZP2-TB15ZJS6-AL12-06 | [SMC (ZP2-TB15ZJS6-AL12-06)](https://www.smc.eu/en-eu/products/4-5-stage-bellows-with-adapter-zp2-t-zj~138574~cfg?partNumber=ZP2-TB15ZJS6-AL12-06) |
 
-**Vacuum Pad with Adapter - ZP3-ZP3-T13BS-A5:**
+**Vacuum Pad with Adapter:**
+| Product | Link |
+|     :---:      |         :---: |
+| ZP3-ZP3-T13BS-A5 | [SMC (ZP3-ZP3-T13BS-A5)](https://www.smc.eu/en-eu/products/with-adapter-zp3-t-b~138577~cfg?partNumber=ZP3-T13BS-A5) |
 
 ## Contact Info:
 Roman.Parak@outlook.com
