@@ -14,7 +14,7 @@ The project demonstrates the creation of several modular end-effector  prototype
 
 The repository contains 3D models of individual components and a Blender project for easy integration into the robot simulation model. Inside the blender file are prototypes of end-effectors with origins, position/rotation, etc. with the corresponding script in Python programming language.
 
-Images with demonstrations on real robots can be found in the README file below.
+Images with demonstrations on real robots can be found in the text below
 
 <p align="center">
   <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/SMC_EE_Series.png" width="800" height="500">
