@@ -127,8 +127,8 @@ Product Link: [SMC (ZP3-ZP3-T13BS-A5)](https://www.smc.eu/en-eu/products/with-ad
 
 |          | Kilogram [kg] | Position [m] | Orientation [-] |
 | :------: | :-----------: | :----------: | :-------------: |
-| EE_Intel_Camera_HT_Circular_001 | 0.0           | <ul><li>Centroid: [0.0, 0.0, 0.005]</li><li>Camera: [-0.1, 0.0, 0.03]</li></ul> | <ul><li>Centroid: [1.0, 0.0, 0.0, 0.0]</li><li>Camera: [1.0, 0.0, 0.0, 0.0]</li></ul> |
-| EE_Intel_Camera_HT_Square_001 | 0.0           | <ul><li>Centroid: [0.0, 0.0, 0.005]</li><li>Camera: [-0.1, 0.0, 0.03]</li></ul> | <ul><li>Centroid: [1.0, 0.0, 0.0, 0.0]</li><li>Camera: [1.0, 0.0, 0.0, 0.0]</li></ul> |
+| EE_Intel_Camera_HT_Circular_001 | 0.095          | <ul><li>Centroid: [0.0, 0.0, 0.005]</li><li>Camera: [-0.1, 0.0, 0.03]</li></ul> | <ul><li>Centroid: [1.0, 0.0, 0.0, 0.0]</li><li>Camera: [1.0, 0.0, 0.0, 0.0]</li></ul> |
+| EE_Intel_Camera_HT_Square_001 | 0.095           | <ul><li>Centroid: [0.0, 0.0, 0.005]</li><li>Camera: [-0.1, 0.0, 0.03]</li></ul> | <ul><li>Centroid: [1.0, 0.0, 0.0, 0.0]</li><li>Camera: [1.0, 0.0, 0.0, 0.0]</li></ul> |
 
 <p align="center">
   <img src="https://github.com/rparak/SMC_End_Effector_Prototype/blob/main/images/EE_Intel_Camera_HT_12.png" width="400" height="200">
