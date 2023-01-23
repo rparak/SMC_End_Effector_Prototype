@@ -51,7 +51,7 @@ Description:
 
 **SMC Magnetic Gripper:**
 
-|          | Kilogram [kg] | Position [m] | Orientation [-] |
+|          | Weight [kg] | Position [m] | Orientation [-] |
 | :------: | :-----------: | :----------: | :-------------: |
 | EE_SMC_MHM_ABB_IRB_120_001 | 0.710           | [0.0, 0.0, 0.2177] | [1.0, 0.0, 0.0, 0.0] |
 | EE_SMC_MHM_Universal_Robots_UR3_001 | 0.720           | [0.0, 0.0, 0.2177] | [1.0, 0.0, 0.0, 0.0] |
@@ -64,7 +64,7 @@ Product Link: [SMC (MHM-X6400)](https://www.smc.eu/en-eu/products/magnetic-gripp
 
 **SMC Non-contact Gripper, Cyclone Type:**
 
-|          | Kilogram [kg] | Position [m] | Orientation [-] |
+|          | Weight [kg] | Position [m] | Orientation [-] |
 | :------: | :-----------: | :----------: | :-------------: |
 | EE_SMC_XT661_2A_ABB_IRB_120_001 | 0.110           | [0.0, 0.0, 0.1765] | [1.0, 0.0, 0.0, 0.0] |
 | EE_SMC_XT661_2A_Universal_Robots_UR3_001 | 0.120           | [0.0, 0.0, 0.1765] | [1.0, 0.0, 0.0, 0.0] |
@@ -77,7 +77,7 @@ Product Link: [SMC (XT661-2A-R)](https://www.smc.eu/en-eu/products/cyclone-type-
 
 **SMC Non-contact Gripper, Bernoulli Type:**
 
-|          | Kilogram [kg] | Position [m] | Orientation [-] |
+|          | Weight [kg] | Position [m] | Orientation [-] |
 | :------: | :-----------: | :----------: | :-------------: |
 | EE_SMC_XT661_4C_ABB_IRB_120_001 | 0.295           | [0.0, 0.0, 0.1877] | [1.0, 0.0, 0.0, 0.0] |
 | EE_SMC_XT661_4C_Universal_Robots_UR3_001 | 0.305           | [0.0, 0.0, 0.1877] | [1.0, 0.0, 0.0, 0.0] |
@@ -90,7 +90,7 @@ Product Link: [SMC (XT661-4C-X427)](https://www.smc.eu/en-eu/products/bernouilli
 
 **SMC 4.5 Stage Bellows Vacuum Pad with Adapter:**
 
-|          | Kilogram [kg] | Position [m] | Orientation [-] |
+|          | Weight [kg] | Position [m] | Orientation [-] |
 | :------: | :-----------: | :----------: | :-------------: |
 | EE_SMC_ZP2_ABB_IRB_120_001 | 0.095           | [0.0, 0.0, 0.186] | [1.0, 0.0, 0.0, 0.0] |
 | EE_SMC_ZP2_Universal_Robots_UR3_001 | 0.105           | [0.0, 0.0, 0.186] | [1.0, 0.0, 0.0, 0.0] |
@@ -110,7 +110,7 @@ Notes:
   - C  = Camera
 
 
-|          | Kilogram [kg] | Position [m] | Orientation [-] |
+|          | Weight [kg] | Position [m] | Orientation [-] |
 | :------: | :-----------: | :----------: | :-------------: |
 | ABB_Smart_Gripper_R_Type_1_001 | 0.300           | <ul><li>F: [0.0, 0.0, 0.1142]</li><li>VL: [0.059, 0.0185, 0.0375]</li></ul><li> VR: [-0.059, 0.0185]</li></ul> | <ul><li>F: [1.0, 0.0, 0.0, 0.0]</li><li>VL: [0.707107, 0.0, 0.707107, 0.0]</li></ul><li> VR: [0.0, -0.707107, 0.0, 0.707107]</li></ul> |
 | ABB_Smart_Gripper_L_Type_1_001 | 0.275           | <ul><li>F: [0.0, 0.0, 0.1142]</li><li>VL: [0.059, 0.0185, 0.0375]</li></ul><li> C: [-0.00727, 0.0297, 0.03506]</li></ul> | <ul><li>F: [1.0, 0.0, 0.0, 0.0]</li><li>VL: [0.707107, 0.0, 0.707107, 0.0]</li></ul><li> C: [0.5, -0.5, 0.5, 0.5]</li></ul> |
@@ -125,7 +125,7 @@ Product Link: [SMC (ZP3-ZP3-T13BS-A5)](https://www.smc.eu/en-eu/products/with-ad
 
 **Intel® RealSense™ Depth Camera D435i:**
 
-|          | Kilogram [kg] | Position [m] | Orientation [-] |
+|          | Weight [kg] | Position [m] | Orientation [-] |
 | :------: | :-----------: | :----------: | :-------------: |
 | EE_Intel_Camera_HT_Circular_001 | 0.095          | <ul><li>Centroid: [0.0, 0.0, 0.005]</li><li>Camera: [-0.1, 0.0, 0.03]</li></ul> | <ul><li>Centroid: [1.0, 0.0, 0.0, 0.0]</li><li>Camera: [1.0, 0.0, 0.0, 0.0]</li></ul> |
 | EE_Intel_Camera_HT_Square_001 | 0.095           | <ul><li>Centroid: [0.0, 0.0, 0.005]</li><li>Camera: [-0.1, 0.0, 0.03]</li></ul> | <ul><li>Centroid: [1.0, 0.0, 0.0, 0.0]</li><li>Camera: [1.0, 0.0, 0.0, 0.0]</li></ul> |
